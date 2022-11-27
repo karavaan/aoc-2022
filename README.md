@@ -18,3 +18,4 @@ You can also join our [private-leaderboard](https://adventofcode.com/2022/leader
 
 | Name | Language |
 | ---- | -------- |  
+[Thijs van Tol](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/thijsvtol/Python) | Python |
