@@ -6,6 +6,9 @@
 
 [Advent of Code](http://adventofcode.com/) is an annual Advent calendar of programming puzzles.
 
+## Discussions
+For every day, there is a GitHub discussion created to share your thoughts, ask for help or just chat for fun!  
+[Go to the discussions](https://github.com/RoyalAholdDelhaize/adventofcode-2022/discussions)
 
 ## Participate
 
