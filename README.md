@@ -7,7 +7,7 @@
 [Advent of Code](http://adventofcode.com/) is an annual Advent calendar of programming puzzles.
 
 ## Discussions
-For every day, there is a GitHub discussion created to share your thoughts, ask for help or just chat for fun!  
+For every day, there is a GitHub discussion created to share your thoughts, ask for help or just chat for fun!
 [Go to the discussions](https://github.com/RoyalAholdDelhaize/adventofcode-2022/discussions)
 
 ## Participate
@@ -20,6 +20,7 @@ You can also join our [private-leaderboard](https://adventofcode.com/2022/leader
 ## Participants
 
 | Name | Language |
-| ---- | -------- |  
+| ---- | -------- |
 [Thijs van Tol](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/thijsvtol/Python) | Python |
 [Johan Pelgrim](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/jpelgrim/Dart) | Dart |
+[Jan van den Berg](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/koozz/rust) | Rust |

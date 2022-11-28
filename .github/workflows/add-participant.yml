@@ -19,8 +19,8 @@ jobs:
         id: token
         uses: tibdex/github-app-token@v1
         with:
-          app_id: ${{ secrets.AH_DIGITAL_APP_BACKEND_ID }}
-          private_key: ${{ secrets.AH_DIGITAL_APP_BACKEND_KEY }}
+          app_id: ${{ secrets.TECH_NL_EEP_AUTOMATION_APP_ID }}
+          private_key: ${{ secrets.TECH_NL_EEP_AUTOMATION_APP_KEY }}
 
       - name: Checkout
         uses: actions/checkout@v2
