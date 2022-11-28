@@ -25,3 +25,4 @@ You can also join our [private-leaderboard](https://adventofcode.com/2022/leader
 [Johan Pelgrim](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/jpelgrim/Dart) | Dart |
 [Jan van den Berg](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/koozz/rust) | Rust |
 [Tijmen Stor](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/Tijmen34/Go) | Go |
+[Philipp Gayret](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/SkPhilipp/Bash) | Bash |
