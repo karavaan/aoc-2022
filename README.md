@@ -29,3 +29,4 @@ You can also join our [private-leaderboard](https://adventofcode.com/2022/leader
 [Vincent Weber](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/vweber/Typescript) | Typescript |
 [Reinier Timmer](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/reiniertimmer/ruby) | ruby |
 [Jeroen Bouma](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/jeroenboumareturns/Dart) | Dart |
+[Kostya Kryvenka](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/kstkrv/PowerShell) | PowerShell |
