@@ -30,3 +30,4 @@ You can also join our [private-leaderboard](https://adventofcode.com/2022/leader
 [Reinier Timmer](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/reiniertimmer/ruby) | ruby |
 [Jeroen Bouma](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/jeroenboumareturns/Dart) | Dart |
 [Kostya Kryvenka](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/kstkrv/PowerShell) | PowerShell |
+[Yorick Schellevis](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/KingToadz/Kotlin) | Kotlin |
