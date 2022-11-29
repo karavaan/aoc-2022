@@ -27,3 +27,4 @@ You can also join our [private-leaderboard](https://adventofcode.com/2022/leader
 [Tijmen Stor](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/Tijmen34/Go) | Go |
 [Philipp Gayret](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/SkPhilipp/Bash) | Bash |
 [Vincent Weber](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/vweber/Typescript) | Typescript |
+[Reinier Timmer](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/reiniertimmer/ruby) | ruby |
