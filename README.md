@@ -32,3 +32,4 @@ You can also join our [private-leaderboard](https://adventofcode.com/2022/leader
 [Kostya Kryvenka](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/kstkrv/PowerShell) | PowerShell |
 [Yorick Schellevis](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/KingToadz/Kotlin) | Kotlin |
 [Tijmen Stor](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/Tijmen34/Haskell) | Haskell |
+[Laszlo Igaz](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/laszlo-igaz-ah/Kotlin) | Kotlin |
