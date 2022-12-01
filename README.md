@@ -37,3 +37,4 @@ You can also join our [private-leaderboard](https://adventofcode.com/2022/leader
 [Bora Alex Meester](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/Boramenxl/Java) | Java |
 [Rene Floor](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/renefloor/dart) | dart |
 [JeroenKerssies](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/JKerssies/Python) | Python |
+[Jeffrey van der Lingen](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/jvdlingen/Kotlin) | Kotlin |
