@@ -38,3 +38,4 @@ You can also join our [private-leaderboard](https://adventofcode.com/2022/leader
 [Rene Floor](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/renefloor/dart) | dart |
 [JeroenKerssies](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/JKerssies/Python) | Python |
 [Jeffrey van der Lingen](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/jvdlingen/Kotlin) | Kotlin |
+[Alae El Hani](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/AlaeEH/Typescript) | Typescript |
