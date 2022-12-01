@@ -35,3 +35,4 @@ You can also join our [private-leaderboard](https://adventofcode.com/2022/leader
 [Laszlo Igaz](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/laszlo-igaz-ah/Kotlin) | Kotlin |
 [Thimo Soet](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/tsoetje/Kotlin) | Kotlin |
 [Bora Alex Meester](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/Boramenxl/Java) | Java |
+[Rene Floor](https://github.com/RoyalAholdDelhaize/adventofcode-2022/tree/renefloor/dart) | dart |
